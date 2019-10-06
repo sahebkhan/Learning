@@ -1,0 +1,83 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SpiralDArray",
+            "request": "launch",
+            "mainClass": "SpiralDArray",
+            "projectName": "learning_fa19c946"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - AllPaths",
+            "request": "launch",
+            "mainClass": "AllPaths",
+            "projectName": "learning_fa19c946"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ChildSteps",
+            "request": "launch",
+            "mainClass": "ChildSteps",
+            "projectName": "learning_fa19c946"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Permutation",
+            "request": "launch",
+            "mainClass": "Permutation",
+            "projectName": "learning_fa19c946"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Unique",
+            "request": "launch",
+            "mainClass": "Unique",
+            "projectName": "learning_fa19c946"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MyArray",
+            "request": "launch",
+            "mainClass": "MyArray",
+            "projectName": "learning_fa19c946"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - CharcterTest",
+            "request": "launch",
+            "mainClass": "CharcterTest",
+            "projectName": "learning_fa19c946"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Factor",
+            "request": "launch",
+            "mainClass": "Factor"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - GCF",
+            "request": "launch",
+            "mainClass": "GCF"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - BestPath",
+            "request": "launch",
+            "mainClass": "BestPath"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SelectionSort",
+            "request": "launch",
+            "mainClass": "SelectionSort"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Test",
+            "request": "launch",
+            "mainClass": "Test"
+        }
+    ]
+}
